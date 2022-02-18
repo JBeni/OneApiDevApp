@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OneApiDevApp", "OneApiDevApp\OneApiDevApp.csproj", "{AF7D24C9-3EFF-4BC4-9485-61C70B4D6A71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Folder", "Solution Folder", "{01B976E7-79F2-41CA-AD89-5D352EF3DB1F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF7D24C9-3EFF-4BC4-9485-61C70B4D6A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7D24C9-3EFF-4BC4-9485-61C70B4D6A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7D24C9-3EFF-4BC4-9485-61C70B4D6A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7D24C9-3EFF-4BC4-9485-61C70B4D6A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F6325A7-3DE3-4A24-B6DA-AF9EC724F02C}
+	EndGlobalSection
+EndGlobal
